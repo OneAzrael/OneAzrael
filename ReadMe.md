@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 22-year-old game programmer <br>who started my game development journey a year ago at Forsberg.<br> I've learned a lot and I'm always eager to learn more about Unreal, Unity, and C++/C#.<br>I enjoy both playing and creating games. <br>My passion for game development sparked during the PSP era<br> I was young and fascinated by how everything inside a game was made: <br>the code, the textures, the models. Throughout my life, <br>games have brought me many great and memorable moments, <br>and I hope that someday I may contribute to that too. :)
+I'm a 22-year-old game programmer <br>who started my game development journey in 2025 at Forsberg..<br> I've learned a lot and I'm always eager to learn more about Unreal, Unity, and C++/C#.<br>I enjoy both playing and creating games. <br>My passion for game development sparked during the PSP era<br> I was young and fascinated by how everything inside a game was made: <br>the code, the textures, the models. Throughout my life, <br>games have brought me many great and memorable moments, <br>and I hope that someday I may contribute to that too. :)
 
 # 💫 Projects / Interests
 Most of my course repos are public. 
